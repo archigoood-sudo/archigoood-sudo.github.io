@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://tykk.ru/</loc></url>
+  <url><loc>https://tykk.ru/crm-dlya-tancevalnoy-studii/</loc></url>
+  <url><loc>https://tykk.ru/crm-dlya-shkoly-tancev/</loc></url>
+  <url><loc>https://tykk.ru/crm-dlya-sportivnoy-sekcii/</loc></url>
   <url><loc>https://tykk.ru/help/</loc></url>
   <url><loc>https://tykk.ru/help/attendance/</loc></url>
   <url><loc>https://tykk.ru/help/attendance/correct/</loc></url>
@@ -97,7 +100,10 @@
   <url><loc>https://tykk.ru/help/troubleshooting/</loc></url>
   <url><loc>https://tykk.ru/help/updates/</loc></url>
   <url><loc>https://tykk.ru/privacy.html</loc></url>
+  <url><loc>https://tykk.ru/programma-dlya-tancevalnoy-studii/</loc></url>
   <url><loc>https://tykk.ru/releases/</loc></url>
   <url><loc>https://tykk.ru/support.html</loc></url>
   <url><loc>https://tykk.ru/terms.html</loc></url>
+  <url><loc>https://tykk.ru/uchet-abonementov/</loc></url>
+  <url><loc>https://tykk.ru/uchet-poseshchaemosti/</loc></url>
 </urlset>
